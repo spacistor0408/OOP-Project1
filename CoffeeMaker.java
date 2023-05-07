@@ -1,4 +1,4 @@
-package Version1 ;
+
 public class CoffeeMaker extends BeverageMaker {
 
   public void brew() {

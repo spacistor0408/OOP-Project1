@@ -1,4 +1,5 @@
-package Version1 ;
+package FactorMethod_ver ;
+
 public class TeaMaker extends BeverageMaker {
   
   public void brew() {

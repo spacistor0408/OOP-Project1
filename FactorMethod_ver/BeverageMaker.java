@@ -1,4 +1,4 @@
-package Version2 ;
+package FactorMethod_ver ;
 
 abstract class BeverageMaker {
 

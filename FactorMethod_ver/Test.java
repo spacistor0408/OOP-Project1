@@ -1,4 +1,4 @@
-package Version2 ;
+package FactorMethod_ver ;
 
 public class Test {
   public static void main(String[] args) {

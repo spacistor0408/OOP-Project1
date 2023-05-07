@@ -1,4 +1,4 @@
-package Version1 ;
+
 abstract class BeverageMaker {
 
   // Essential Step, Need To Implement Method

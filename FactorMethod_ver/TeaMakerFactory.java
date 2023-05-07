@@ -1,4 +1,4 @@
-package Version2;
+package FactorMethod_ver;
 
 public class TeaMakerFactory implements MakerFactory {
   

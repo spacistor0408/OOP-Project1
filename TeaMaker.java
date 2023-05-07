@@ -1,4 +1,3 @@
-package Version2 ;
 
 public class TeaMaker extends BeverageMaker {
   
